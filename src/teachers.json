@@ -1,0 +1,14 @@
+{
+  "teachers": [
+    {
+      "username": "mrodriguez",
+      "name": "Maria Rodriguez",
+      "password_hash": "4a136eba511513e847e7209795ca1a570e1f18ea7d10ab93a50492ec1c60678f"
+    },
+    {
+      "username": "jpatel",
+      "name": "Jordan Patel",
+      "password_hash": "c0b804c84bc288dfc4d59731e1deb8eedcc195cd1c6f0d213bd84731302af1ca"
+    }
+  ]
+}
